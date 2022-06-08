@@ -1,0 +1,17 @@
+body {
+  margin: 1% 1% 1% 1%;
+  background-color: #000000;
+  font-family: 'Consolas'; color: #ffffff;
+}
+
+input {
+  background-color: #000000;
+  font-family: 'Consolas'; color: #ffffff;
+  border: 0px solid #ffffff;
+}
+
+input:focus {
+  width: 100%;
+  border: 0px solid #ffffff;
+  outline: none;
+}
