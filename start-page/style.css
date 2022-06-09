@@ -1,6 +1,6 @@
-body { font-family:'Consolas'; margin:1%1%1%1%; }
+body { font-family:'Consolas',monospace; margin:1%1%1%1%; }
 a { text-decoration:none; }
-input { border:0 solid; font-family:'Consolas'; font-size:13px;  outline:none; padding: 0 0 0 0;}
+input { border:0 solid; font-family:'Consolas',monospace; font-size:13px;  outline:none; padding: 0 0 0 0; width:50%; }
 input:focus { border:0 solid; outline:none; padding:0 0 0 0; width:100%; }
 
 table { border-spacing:10px; font-size:13px; margin-left:-10px; table-layout:fixed; width:50%; }
