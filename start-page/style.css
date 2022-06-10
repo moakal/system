@@ -1,10 +1,10 @@
 body { font-family: 'Helvetica', sans-serif; margin: 5% 5% 5% 5%; }
 a { text-decoration: none; }
 
-input { border: 0 solid; font-family: 'Helvetica', sans-serif; font-size: 13px;  outline: none; padding: 0 0 0 0; width: 50%; }
+input { border: 0 solid; font-family: 'Helvetica', sans-serif; font-size: small;  outline: none; padding: 0 0 0 0; width: 50%; }
 input:focus { border: 0 solid; outline: none; padding: 0 0 0 0; width: 100%; }
 
-table { border-spacing: 10px; font-size: 13px; margin-left: -10px; table-layout: fixed; width: 50%; }
+table { border-spacing: 10px; font-size: small; margin-left: -10px; table-layout: fixed; width: 50%; }
 td { border: 1px solid #777777; height: 50px; text-align: center; }
 td:hover { background-color: #777777; }
 td a { display: block; height: 50px; padding-bottom: 5px; padding-top: 45px; width: 100%; }
